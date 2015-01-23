@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title> Welcome to Jekyll! </title>
+</head>
+
+<body>
+
+    <h1 id="bootstrappers">Bootstrappers</h1>
+
+<p>Bootstrappers is the base Rails application using Bootstrap template and other goodies.</p>
+
+<h2 id="installation">Installation</h2>
+
+<p>First install the bootstrappers gem:</p>
+
+<pre><code>gem install bootstrappers
+</code></pre>
+
+<h2 id="rails-40">Rails 4.0+</h2>
+
+<pre><code>gem install bootstrappers 4.0.rc1
+</code></pre>
+
+<p>Then run:</p>
+
+<pre><code>$ bootstrappers project_name
+</code></pre>
+
+<h2 id="gemfile">Gemfile</h2>
+
+<p>To see the latest and greatest gems, look at Suspenders’ template/Gemfile_additions, which will be appended to the default generated projectname/Gemfile.</p>
+
+<p>It includes application gems like:</p>
+
+<h3 id="view--scss">View / SCSS</h3>
+<ul>
+  <li><a href="https://github.com/anjlab/bootstrap-rails">Bootstrap SCSS</a></li>
+  <li><a href="https://github.com/xdite/bootstrap-helper">Bootstrap Helper</a></li>
+  <li><a href="https://github.com/plataformatec/simple_form">SimpleForm</a></li>
+  <li><a href="https://github.com/mislav/will_paginate/">WillPaginate</a></li>
+  <li><a href="http://compass-style.org/">Compass</a></li>
+</ul>
+
+<h3 id="photo-upload">Photo Upload</h3>
+
+<ul>
+  <li><a href="https://github.com/jnicklas/carrierwave">CarrierWave</a></li>
+</ul>
+
+<h3 id="social--seo">Social / SEO</h3>
+
+<ul>
+  <li><a href="https://github.com/techbang/seo_helper">SeoHelper</a></li>
+  <li><a href="https://github.com/techbang/open_graph_helper">OpenGraphHelper</a></li>
+</ul>
+
+<h3 id="deploy">Deploy</h3>
+
+<ul>
+  <li><a href="https://github.com/capistrano/capistrano">Capistrano</a></li>
+  <li><a href="https://github.com/njonsson/cape">Cape</a></li>
+  <li><a href="https://github.com/wayneeseguin/rvm-capistrano">rvm-capistrano</a></li>
+  <li><a href="https://github.com/airbrake/airbrake">Airbrake</a></li>
+  <li><a href="https://github.com/newrelic/rpm">NewRelic RPM</a></li>
+  <li><a href="https://github.com/ndbroadbent/turbo-sprockets-rails3">Turbo Sprockets for Rails 3.2.x</a> Speeds up your Rails 3 rake assets:precompile by only recompiling changed assets</li>
+</ul>
+
+<h3 id="commandline">CommandLine</h3>
+
+<ul>
+  <li><a href="https://github.com/m-ryan/magic_encoding">Magic encoding</a></li>
+  <li><a href="https://github.com/ctran/annotate_models">Annotate</a></li>
+  <li><a href="https://github.com/binarylogic/settingslogic">Settingslogic</a></li>
+  <li><a href="http://pryrepl.org/">Pry</a></li>
+</ul>
+
+<h3 id="dev-enviorments">Dev Enviorments</h3>
+
+<ul>
+  <li><a href="https://github.com/charliesome/better_errors">Better Errors</a></li>
+</ul>
+
+<h2 id="remind">Remind</h2>
+
+<p>config/database.yml default setting:</p>
+
+<p><code>
+development: &amp;default
+  adapter: mysql2
+  encoding: utf8
+  database: &lt;%= app_name %&gt;_development
+  host: localhost
+  username: root
+  password: ""
+</code>  </p>
+
+<p>but we still ask for your preferences</p>
+
+<h2 id="contributing">Contributing</h2>
+
+<ol>
+  <li>Fork it</li>
+  <li>Create your feature branch (<code>git checkout -b my-new-feature</code>)</li>
+  <li>Commit your changes (<code>git commit -am 'Add some feature'</code>)</li>
+  <li>Push to the branch (<code>git push origin my-new-feature</code>)</li>
+  <li>Create new Pull Request</li>
+</ol>
+
+<h2 id="issues">Issues</h2>
+
+<p>If you have problems, please create a <a href="https://github.com/xdite/bootstrappers/issues">Github issue</a>.</p>
+
+<h2 id="credits">Credits</h2>
+
+<p>Bootstrappers is maintained and funded by <a href="http://github.com/xdite">@xdite</a></p>
+
+<p>some codes of bootstrappers were borrowed from <a href="https://github.com/thoughtbot/suspendersus">suspenders</a></p>
+
+<h2 id="license">License</h2>
+
+<p>Bootstrappers is Copyright © 2012 xdite. It is free software, and may be redistributed under the terms specified in the LICENSE file.</p>
+
+
+
+</body>
+
+</html>
