@@ -3,9 +3,9 @@ layout: default
 title: "ruby_Gem_practice"
 date: 2015-02-01 22:37:26
 ---
-# Jekyll _post Template 
+# Jekyll post Template 
 
-This is a simple ruby program for automatically create _post template.
+This is a simple ruby program for automatically create post template.
 It can generate the below code template for default configuration.
 
 	---
@@ -25,3 +25,7 @@ It can generate the below code template for default configuration.
 # License
 
 MIT
+
+# Github 
+
+[github](https://github.com/larrywhy/jekyll_post)
