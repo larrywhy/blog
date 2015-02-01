@@ -14,4 +14,14 @@ It can generate the below code template for default configuration.
 	date: 2015-02-01 00:00:00
 	---
 
+# Install
 
+	gem install jklpost
+
+# Usage
+
+	$jklpost <filename> <layout> [options]
+
+# License
+
+MIT
