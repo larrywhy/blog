@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ruby_Gem_practice"
+title: "Jkyell Post Template"
 date: 2015-02-01 22:37:26
 ---
 # Jekyll post Template 
