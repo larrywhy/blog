@@ -16,6 +16,12 @@ For the purpose of practing Japanese .
 
 To help people learn japanese by unlocking the screen.
 
+---
+
+Here are some notes about this project:
+
+1.[adb command](http://style77125tech.pixnet.net/blog/post/17556680-%5Bandroid%5D-%E4%BD%BF%E7%94%A8adb%E6%8C%87%E4%BB%A4)
+
 
 
 
