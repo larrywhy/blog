@@ -24,5 +24,5 @@ Here are some notes about this project:
 
 2. image must be **lowercase a-z, numbers 0-9 and underscore** in **drawable** directory.
 
-3. add an **imageView** controls in **activity_main.xml**, then add `android:src=\"@drawable\/your_image\"`. 
+3. add an **imageView** controls in **activity_main.xml**, then add `android:src="@drawable/your_image"`. 
 
