@@ -1,4 +1,4 @@
----
+-
 layout: default
 title: "android note"
 date: 2015-02-04 23:14:10
@@ -29,5 +29,9 @@ Here are some notes about this project:
 4. In android, all resource will be generated to R.java, it can be seen the resource id in values base-16 (hexadecimal) for compiler.
 
 5. An image is 3000 by 3000 pixels. If 4 bytes per pixel, how many MB of memory are required? -> 3000 * 3000 * 4 = 36000000 bytes = 36 MB.
+
+6. Add images to **Project/res/drawable-hdpi/**, that is fine to add images to different Bitmaps, just put it on the correct directory. 
+
+7. Modify the **main.xml**(which is at the directory **Project/res/layout/**), it can be alternated to different size(e.g. **landscape orientation**), just create a new directory named **layout-land**, and copy **main.xml** to the new directory.
 
  
