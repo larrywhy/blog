@@ -34,6 +34,6 @@ Here are some notes about this project:
 
 7. Modify the **main.xml**(which is at the directory **Project/res/layout/**), it can be alternated to different size(e.g. **landscape orientation**), just create a new directory named **layout-land**, and copy **main.xml** to the new directory.
 
-(orz..I really hate the flash crash !!! omggggg..) 
+8. **res/values** is used to hold default resource values.
 
-8. 
+9. Here are the qualifier names list: **Language, LayoutDirection, smallestWidth, Night mode, Screen orientation,etc. link:[qualifiers](http://developer.android.com/guide/topics/resources/providing-resources.html)
