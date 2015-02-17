@@ -36,4 +36,4 @@ Here are some notes about this project:
 
 8. **res/values** is used to hold default resource values.
 
-9. Here are the qualifier names list: **Language, LayoutDirection, smallestWidth, Night mode, Screen orientation,etc. link:[qualifiers](http://developer.android.com/guide/topics/resources/providing-resources.html)
+9. Here are the qualifier names list: **Language, LayoutDirection, smallestWidth, Night mode, Screen orientation**,etc. link:[qualifiers](http://developer.android.com/guide/topics/resources/providing-resources.html)

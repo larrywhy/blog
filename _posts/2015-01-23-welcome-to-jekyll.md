@@ -5,7 +5,6 @@ date:   2015-01-23 00:19:24
 ---
 # hello jekyll
 
-jekyll test
+jekyll 
 
-* [Google](https://www.google.com)
-
+Reddit - 
