@@ -37,3 +37,5 @@ Here are some notes about this project:
 8. **res/values** is used to hold default resource values.
 
 9. Here are the qualifier names list: **Language, LayoutDirection, smallestWidth, Night mode, Screen orientation**,etc. link:[qualifiers](http://developer.android.com/guide/topics/resources/providing-resources.html)
+
+10. Remove bar title by changing the inheritance **ActionBarActivity** to **Activity**, and add below code->    android:theme="@android:style/Theme.NoTitleBar.Fullscreen"    to **activity** tag in **AndroidManifest.xml**.
