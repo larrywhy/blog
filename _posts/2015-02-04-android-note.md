@@ -12,7 +12,7 @@ Similar to Unlock your screen apps , it is a japanese version.
 
 # Purpose
 
-For the purpose of practing Japanese .
+For the purpose of practing Japanese. (idea)
 
 To help people learn japanese by unlocking the screen.
 
