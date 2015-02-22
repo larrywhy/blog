@@ -39,3 +39,7 @@ Here are some notes about this project:
 9. Here are the qualifier names list: **Language, LayoutDirection, smallestWidth, Night mode, Screen orientation**,etc. link:[qualifiers](http://developer.android.com/guide/topics/resources/providing-resources.html)
 
 10. Remove bar title by changing the inheritance **ActionBarActivity** to **Activity** in **MainActivity.java**, and add below code->    android:theme="@android:style/Theme.NoTitleBar.Fullscreen"    to **activity** tag in **AndroidManifest.xml**.
+
+11. Android lint tool help us to check Android project source files for potential bugs and improve the performance and optimization. In Android Studio, **Analyze > Inspect Code**. See [web document](http://developer.android.com/tools/help/lint.html).
+
+12
